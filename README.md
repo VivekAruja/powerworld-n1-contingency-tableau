@@ -59,7 +59,7 @@ This project was created to strengthen practical skills relevant to power system
 | PowerWorld Simulator | Transmission system modeling, base case power flow, N-1 contingency testing |
 | Microsoft Excel / CSV | Contingency results tracking and corrective action summary |
 | Tableau Public | Dashboard visualization for loading, voltage, severity, and corrective actions |
-| LaTeX | Final technical report compilation |
+
 
 ## System Description
 
