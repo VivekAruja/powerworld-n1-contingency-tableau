@@ -125,7 +125,9 @@ The base case was solved using Newton-Raphson power flow and used as the referen
 
 ## Tableau Dashboard
 
-Located in:
+**Live interactive dashboard:** [View on Tableau Public](https://public.tableau.com/views/13-BusTransmissionN-1ContingencyAnalysis-Draft/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+Static exports located in:
 
 ```text
 tableau/dashboard_overview.png
@@ -236,7 +238,6 @@ report/13_Bus_Transmission_N_1_Contingency_Analysis_Report.pdf
 - Corrective action planning
 - CSV-based results tracking
 - Tableau dashboard development
-- Technical report writing
 - Power systems engineering communication
 
 ## Disclaimer
